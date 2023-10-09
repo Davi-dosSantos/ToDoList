@@ -8,11 +8,11 @@
 		<version>3.0.11</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.DavidSC</groupId>
-	<artifactId>toDoList</artifactId>
+	<groupId>br.com.davidsc</groupId>
+	<artifactId>todolist</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>toDoList</name>
-	<description>Gerenciador de tarefas</description>
+	<name>todolist</name>
+	<description>Task manager</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
